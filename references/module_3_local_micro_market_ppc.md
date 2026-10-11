@@ -22,11 +22,11 @@ In small towns, set bidding to **Target Impression Share**, targeting **"Absolut
 
 ### **3.4 Intent Isolation: Exact & Phrase Only**
 
-**Broad Match is forbidden** in low-volume markets. Restrict campaigns to **Exact and Phrase Match** high-intent commercial keywords (e.g., `[emergency plumber in town]`). The negative-keyword shield from Module 1 §1.3 still applies in full — low volume makes every wasted click proportionally more expensive.
+**Broad Match is forbidden** in low-volume markets. Restrict campaigns to **Exact and Phrase Match** high-intent commercial keywords (e.g., `[emergency plumber marlow]`). The negative-keyword shield from Module 1 §1.3 still applies in full — low volume makes every wasted click proportionally more expensive.
 
 ### **3.5 The Matched Locations Audit**
 
-Regularly audit the **"Matched locations"** report to confirm clicks are physically originating within the designated town boundaries. Drift here means the Presence setting (§3.1) was reverted or circumvented — treat it as a recurring monthly check, not a one-time setup.
+Regularly audit the **Locations report** (Campaign → Locations → the *Matched locations* breakdown, read alongside *Location type: Presence vs. Interest*) to confirm clicks are physically originating within the designated town boundaries. Drift here means the Presence setting (§3.1) was reverted or circumvented — treat it as a recurring monthly check, not a one-time setup.
 
 ### **3.6 Cross-Skill Routing**
 

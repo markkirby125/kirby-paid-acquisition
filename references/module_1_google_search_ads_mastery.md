@@ -18,7 +18,7 @@ Google rewards relevance with cheaper bids. The arbitrage mechanism is an identi
 | 2 | Ad copy headline | Near-verbatim echo of the query intent |
 | 3 | Landing page H1 | Near-verbatim echo of the same intent |
 
-A aligned trinity cuts Cost Per Click roughly **in half** while dominating top-of-page impression share — Google prices confidence in relevance, and the trinity is how it is signaled.
+An aligned trinity cuts Cost Per Click roughly **in half** while dominating top-of-page impression share (source claim from the $122M+ managed-spend framework) — Google prices confidence in relevance, and the trinity is how it is signaled.
 
 Audit rule: for every keyword, read the query, the served headline, and the lander H1 in sequence. Any drift between the three is a Quality Score leak and a CPC premium.
 
@@ -44,7 +44,7 @@ Dumping 50 varied keywords into one ad group destroys relevance — no single ad
 
 ### **1.5 Dedicated Bridge Landers**
 
-Never send Google Ads traffic to a generic corporate homepage. Every STAG must land on a **dedicated bridge lander or lead funnel built specifically for that search query** — the H1 completing the trinity (§1.2). Funnel topology and presell architecture → Module 4.
+Never send Google Ads traffic to a generic corporate homepage. Every STAG must land on a **dedicated bridge lander or lead funnel built specifically for that search query** — the H1 completing the trinity (§1.2). Funnel topology and presell architecture → Module 4 (cold paid traffic may route through a native presell stage *before* this lander — see §4.3 for the full sequence).
 
 ### **1.6 Cross-Skill Routing**
 
